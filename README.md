@@ -5,8 +5,7 @@ Javascript design patterns & framework overview
 
 ## Built With
 
-Komodo - hand coding exercise
-
+Largely Copy & Paste for this course
 
 ## Authors
 
